@@ -1,0 +1,6 @@
+D:\Projects\Cefalo School\Decorator\Decorator\bin\Debug\Decorator.exe.config
+D:\Projects\Cefalo School\Decorator\Decorator\bin\Debug\Decorator.exe
+D:\Projects\Cefalo School\Decorator\Decorator\bin\Debug\Decorator.pdb
+D:\Projects\Cefalo School\Decorator\Decorator\obj\Debug\Decorator.csprojResolveAssemblyReference.cache
+D:\Projects\Cefalo School\Decorator\Decorator\obj\Debug\Decorator.exe
+D:\Projects\Cefalo School\Decorator\Decorator\obj\Debug\Decorator.pdb
